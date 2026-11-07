@@ -1,0 +1,6 @@
+{
+  "name": "Student Resource Hub",
+  "description": "Centralized student portal for discovering curated learning materials, tracking academic tasks, and engaging with campus events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
